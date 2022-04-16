@@ -6,3 +6,7 @@ Simples Sistema de Cadastro Escolar usando Orientação a Objetos
 
 ## UML - Propiedades 
 ![Alt Text](https://github.com/Kayannsoarez/SchoolReg_ObjOriented/blob/main/img/Properties.png)
+
+## UML - Dependências 
+![Alt Text](https://github.com/Kayannsoarez/SchoolReg_ObjOriented/blob/main/img/Dependencies.png)
+
